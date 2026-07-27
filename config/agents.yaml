@@ -1,0 +1,54 @@
+# Agent crew configuration.
+#
+# `order` is the fixed candidate order the orchestrator considers agents in.
+# `profiler` and `narrative` always run. Every other agent only runs if
+# ProfilerAgent recommends it (see src/agents/profiler_agent.py) - this file
+# configures HOW an agent runs (retries/backoff/params), not WHETHER it runs,
+# which is the profiler's adaptive decision at run time.
+#
+# retries: number of retries after the first attempt (so retries: 2 means
+#          up to 3 total attempts) before the orchestrator gives up and
+#          falls back to skipping that agent for this run.
+# backoff_seconds: base delay before each retry, doubled every attempt.
+
+sources:
+  revenue_csv: sample_data/daily_revenue.csv
+  spend_json: sample_data/marketing_spend.json
+  tickets_sql: sample_data/support_tickets.sql
+
+database: crew_runs.db
+
+order:
+  - profiler
+  - quality
+  - anomaly
+  - forecast
+  - efficiency
+  - narrative
+
+agents:
+  profiler:
+    retries: 1
+    backoff_seconds: 0.1
+  quality:
+    retries: 2
+    backoff_seconds: 0.2
+  anomaly:
+    retries: 2
+    backoff_seconds: 0.2
+    params:
+      recent_window: 7
+      z_threshold: 2.5
+  forecast:
+    retries: 2
+    backoff_seconds: 0.2
+    params:
+      horizon_days: 7
+  efficiency:
+    retries: 2
+    backoff_seconds: 0.2
+    params:
+      recent_window: 7
+  narrative:
+    retries: 1
+    backoff_seconds: 0.1
