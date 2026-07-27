@@ -1,0 +1,867 @@
+[
+  {
+    "date": "2026-05-29",
+    "channel": "Paid Search",
+    "spend": 1489.4
+  },
+  {
+    "date": "2026-05-29",
+    "channel": "Organic",
+    "spend": 163.94
+  },
+  {
+    "date": "2026-05-29",
+    "channel": "Referral",
+    "spend": 460.81
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Paid Search",
+    "spend": 1267.19
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Organic",
+    "spend": 144.36
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Referral",
+    "spend": 517.73
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Paid Search",
+    "spend": 1528.29
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Organic",
+    "spend": 146.9
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Referral",
+    "spend": 521.5
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Paid Search",
+    "spend": 1281.28
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Organic",
+    "spend": 155.72
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Referral",
+    "spend": 512.72
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Paid Search",
+    "spend": 1288.53
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Organic",
+    "spend": 158.17
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Referral",
+    "spend": 535.03
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Paid Search",
+    "spend": 1428.12
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Organic",
+    "spend": 138.63
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Referral",
+    "spend": 548.38
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Paid Search",
+    "spend": 1479.14
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Organic",
+    "spend": 145.42
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Referral",
+    "spend": 492.84
+  },
+  {
+    "date": "2026-06-05",
+    "channel": "Paid Search",
+    "spend": 1363.76
+  },
+  {
+    "date": "2026-06-05",
+    "channel": "Organic",
+    "spend": 150.18
+  },
+  {
+    "date": "2026-06-05",
+    "channel": "Referral",
+    "spend": 484.12
+  },
+  {
+    "date": "2026-06-06",
+    "channel": "Paid Search",
+    "spend": 1497.88
+  },
+  {
+    "date": "2026-06-06",
+    "channel": "Organic",
+    "spend": 159.67
+  },
+  {
+    "date": "2026-06-06",
+    "channel": "Referral",
+    "spend": 460.55
+  },
+  {
+    "date": "2026-06-07",
+    "channel": "Paid Search",
+    "spend": 1529.02
+  },
+  {
+    "date": "2026-06-07",
+    "channel": "Organic",
+    "spend": 154.07
+  },
+  {
+    "date": "2026-06-07",
+    "channel": "Referral",
+    "spend": 532.87
+  },
+  {
+    "date": "2026-06-08",
+    "channel": "Paid Search",
+    "spend": 1458.05
+  },
+  {
+    "date": "2026-06-08",
+    "channel": "Organic",
+    "spend": 148.06
+  },
+  {
+    "date": "2026-06-08",
+    "channel": "Referral",
+    "spend": 523.38
+  },
+  {
+    "date": "2026-06-09",
+    "channel": "Paid Search",
+    "spend": 1530.33
+  },
+  {
+    "date": "2026-06-09",
+    "channel": "Organic",
+    "spend": 143.1
+  },
+  {
+    "date": "2026-06-09",
+    "channel": "Referral",
+    "spend": 530.82
+  },
+  {
+    "date": "2026-06-10",
+    "channel": "Paid Search",
+    "spend": 1410.69
+  },
+  {
+    "date": "2026-06-10",
+    "channel": "Organic",
+    "spend": 149.5
+  },
+  {
+    "date": "2026-06-10",
+    "channel": "Referral",
+    "spend": 493.56
+  },
+  {
+    "date": "2026-06-11",
+    "channel": "Paid Search",
+    "spend": 1464.69
+  },
+  {
+    "date": "2026-06-11",
+    "channel": "Organic",
+    "spend": 143.05
+  },
+  {
+    "date": "2026-06-11",
+    "channel": "Referral",
+    "spend": 535.17
+  },
+  {
+    "date": "2026-06-12",
+    "channel": "Paid Search",
+    "spend": 1492.6
+  },
+  {
+    "date": "2026-06-12",
+    "channel": "Organic",
+    "spend": 137.6
+  },
+  {
+    "date": "2026-06-12",
+    "channel": "Referral",
+    "spend": 538.16
+  },
+  {
+    "date": "2026-06-13",
+    "channel": "Paid Search",
+    "spend": 1328.28
+  },
+  {
+    "date": "2026-06-13",
+    "channel": "Organic",
+    "spend": 148.94
+  },
+  {
+    "date": "2026-06-13",
+    "channel": "Referral",
+    "spend": 511.03
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Paid Search",
+    "spend": 1366.12
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Organic",
+    "spend": 135.86
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Referral",
+    "spend": 535.1
+  },
+  {
+    "date": "2026-06-15",
+    "channel": "Paid Search",
+    "spend": 1310.92
+  },
+  {
+    "date": "2026-06-15",
+    "channel": "Organic",
+    "spend": 141.36
+  },
+  {
+    "date": "2026-06-15",
+    "channel": "Referral",
+    "spend": 529.78
+  },
+  {
+    "date": "2026-06-16",
+    "channel": "Paid Search",
+    "spend": 1355.29
+  },
+  {
+    "date": "2026-06-16",
+    "channel": "Organic",
+    "spend": 161.41
+  },
+  {
+    "date": "2026-06-16",
+    "channel": "Referral",
+    "spend": 520.12
+  },
+  {
+    "date": "2026-06-17",
+    "channel": "Paid Search",
+    "spend": 1337.36
+  },
+  {
+    "date": "2026-06-17",
+    "channel": "Organic",
+    "spend": 135.3
+  },
+  {
+    "date": "2026-06-17",
+    "channel": "Referral",
+    "spend": 544.81
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Paid Search",
+    "spend": 1283.97
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Organic",
+    "spend": 156.6
+  },
+  {
+    "date": "2026-06-19",
+    "channel": "Paid Search",
+    "spend": 1396.8
+  },
+  {
+    "date": "2026-06-19",
+    "channel": "Organic",
+    "spend": 157.74
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Paid Search",
+    "spend": 1453.37
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Organic",
+    "spend": 154.38
+  },
+  {
+    "date": "2026-06-21",
+    "channel": "Paid Search",
+    "spend": 1397.43
+  },
+  {
+    "date": "2026-06-21",
+    "channel": "Organic",
+    "spend": 158.79
+  },
+  {
+    "date": "2026-06-22",
+    "channel": "Paid Search",
+    "spend": 1286.05
+  },
+  {
+    "date": "2026-06-22",
+    "channel": "Organic",
+    "spend": 141.65
+  },
+  {
+    "date": "2026-06-23",
+    "channel": "Paid Search",
+    "spend": 1453.7
+  },
+  {
+    "date": "2026-06-23",
+    "channel": "Organic",
+    "spend": 144.19
+  },
+  {
+    "date": "2026-06-24",
+    "channel": "Paid Search",
+    "spend": 1422.84
+  },
+  {
+    "date": "2026-06-24",
+    "channel": "Organic",
+    "spend": 149.2
+  },
+  {
+    "date": "2026-06-25",
+    "channel": "Paid Search",
+    "spend": 1408.66
+  },
+  {
+    "date": "2026-06-25",
+    "channel": "Organic",
+    "spend": 147.77
+  },
+  {
+    "date": "2026-06-25",
+    "channel": "Referral",
+    "spend": 524.59
+  },
+  {
+    "date": "2026-06-26",
+    "channel": "Paid Search",
+    "spend": 1352.62
+  },
+  {
+    "date": "2026-06-26",
+    "channel": "Organic",
+    "spend": 156.09
+  },
+  {
+    "date": "2026-06-26",
+    "channel": "Referral",
+    "spend": 477.09
+  },
+  {
+    "date": "2026-06-27",
+    "channel": "Paid Search",
+    "spend": 1330.39
+  },
+  {
+    "date": "2026-06-27",
+    "channel": "Organic",
+    "spend": 138.62
+  },
+  {
+    "date": "2026-06-27",
+    "channel": "Referral",
+    "spend": 469.26
+  },
+  {
+    "date": "2026-06-28",
+    "channel": "Paid Search",
+    "spend": 1293.48
+  },
+  {
+    "date": "2026-06-28",
+    "channel": "Organic",
+    "spend": 151.08
+  },
+  {
+    "date": "2026-06-28",
+    "channel": "Referral",
+    "spend": 526.22
+  },
+  {
+    "date": "2026-06-29",
+    "channel": "Paid Search",
+    "spend": 1311.84
+  },
+  {
+    "date": "2026-06-29",
+    "channel": "Organic",
+    "spend": 141.49
+  },
+  {
+    "date": "2026-06-29",
+    "channel": "Referral",
+    "spend": 498.42
+  },
+  {
+    "date": "2026-06-30",
+    "channel": "Paid Search",
+    "spend": 1462.88
+  },
+  {
+    "date": "2026-06-30",
+    "channel": "Organic",
+    "spend": 164.3
+  },
+  {
+    "date": "2026-06-30",
+    "channel": "Referral",
+    "spend": 502.46
+  },
+  {
+    "date": "2026-07-01",
+    "channel": "Paid Search",
+    "spend": 1339.24
+  },
+  {
+    "date": "2026-07-01",
+    "channel": "Organic",
+    "spend": 138.02
+  },
+  {
+    "date": "2026-07-01",
+    "channel": "Referral",
+    "spend": 469.41
+  },
+  {
+    "date": "2026-07-02",
+    "channel": "Paid Search",
+    "spend": 1323.7
+  },
+  {
+    "date": "2026-07-02",
+    "channel": "Organic",
+    "spend": 140.38
+  },
+  {
+    "date": "2026-07-02",
+    "channel": "Referral",
+    "spend": 451.41
+  },
+  {
+    "date": "2026-07-03",
+    "channel": "Paid Search",
+    "spend": 1409.56
+  },
+  {
+    "date": "2026-07-03",
+    "channel": "Organic",
+    "spend": 143.23
+  },
+  {
+    "date": "2026-07-03",
+    "channel": "Referral",
+    "spend": 547.43
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Paid Search",
+    "spend": 1414.94
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Organic",
+    "spend": 155.92
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Referral",
+    "spend": 462.63
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Paid Search",
+    "spend": 1503.17
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Organic",
+    "spend": 149.73
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Referral",
+    "spend": 537.27
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Paid Search",
+    "spend": 1420.74
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Organic",
+    "spend": 149.08
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Referral",
+    "spend": 494.05
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Paid Search",
+    "spend": 1311.62
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Organic",
+    "spend": 136.54
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Referral",
+    "spend": 544.11
+  },
+  {
+    "date": "2026-07-08",
+    "channel": "Paid Search",
+    "spend": 1393.76
+  },
+  {
+    "date": "2026-07-08",
+    "channel": "Organic",
+    "spend": 159.66
+  },
+  {
+    "date": "2026-07-08",
+    "channel": "Referral",
+    "spend": 490.07
+  },
+  {
+    "date": "2026-07-09",
+    "channel": "Paid Search",
+    "spend": 1280.74
+  },
+  {
+    "date": "2026-07-09",
+    "channel": "Organic",
+    "spend": 153.88
+  },
+  {
+    "date": "2026-07-09",
+    "channel": "Referral",
+    "spend": 455.36
+  },
+  {
+    "date": "2026-07-10",
+    "channel": "Paid Search",
+    "spend": 1301.78
+  },
+  {
+    "date": "2026-07-10",
+    "channel": "Organic",
+    "spend": 151.89
+  },
+  {
+    "date": "2026-07-10",
+    "channel": "Referral",
+    "spend": 480.38
+  },
+  {
+    "date": "2026-07-11",
+    "channel": "Paid Search",
+    "spend": 1538.3
+  },
+  {
+    "date": "2026-07-11",
+    "channel": "Organic",
+    "spend": 138.55
+  },
+  {
+    "date": "2026-07-11",
+    "channel": "Referral",
+    "spend": 526.44
+  },
+  {
+    "date": "2026-07-12",
+    "channel": "Paid Search",
+    "spend": 1429.77
+  },
+  {
+    "date": "2026-07-12",
+    "channel": "Organic",
+    "spend": 158.72
+  },
+  {
+    "date": "2026-07-12",
+    "channel": "Referral",
+    "spend": 472.57
+  },
+  {
+    "date": "2026-07-13",
+    "channel": "Paid Search",
+    "spend": 1406.32
+  },
+  {
+    "date": "2026-07-13",
+    "channel": "Organic",
+    "spend": 148.52
+  },
+  {
+    "date": "2026-07-13",
+    "channel": "Referral",
+    "spend": 494.27
+  },
+  {
+    "date": "2026-07-14",
+    "channel": "Paid Search",
+    "spend": 1500.85
+  },
+  {
+    "date": "2026-07-14",
+    "channel": "Organic",
+    "spend": 164.7
+  },
+  {
+    "date": "2026-07-14",
+    "channel": "Referral",
+    "spend": 480.54
+  },
+  {
+    "date": "2026-07-15",
+    "channel": "Paid Search",
+    "spend": 1433.89
+  },
+  {
+    "date": "2026-07-15",
+    "channel": "Organic",
+    "spend": 153.29
+  },
+  {
+    "date": "2026-07-15",
+    "channel": "Referral",
+    "spend": 524.01
+  },
+  {
+    "date": "2026-07-16",
+    "channel": "Paid Search",
+    "spend": 1525.33
+  },
+  {
+    "date": "2026-07-16",
+    "channel": "Organic",
+    "spend": 141.23
+  },
+  {
+    "date": "2026-07-16",
+    "channel": "Referral",
+    "spend": 471.1
+  },
+  {
+    "date": "2026-07-17",
+    "channel": "Paid Search",
+    "spend": 1444.92
+  },
+  {
+    "date": "2026-07-17",
+    "channel": "Organic",
+    "spend": 139.71
+  },
+  {
+    "date": "2026-07-17",
+    "channel": "Referral",
+    "spend": 467.38
+  },
+  {
+    "date": "2026-07-18",
+    "channel": "Paid Search",
+    "spend": 1281.02
+  },
+  {
+    "date": "2026-07-18",
+    "channel": "Organic",
+    "spend": 135.08
+  },
+  {
+    "date": "2026-07-18",
+    "channel": "Referral",
+    "spend": 495.05
+  },
+  {
+    "date": "2026-07-19",
+    "channel": "Paid Search",
+    "spend": 1426.27
+  },
+  {
+    "date": "2026-07-19",
+    "channel": "Organic",
+    "spend": 143.74
+  },
+  {
+    "date": "2026-07-19",
+    "channel": "Referral",
+    "spend": 473.15
+  },
+  {
+    "date": "2026-07-20",
+    "channel": "Paid Search",
+    "spend": 1457.95
+  },
+  {
+    "date": "2026-07-20",
+    "channel": "Organic",
+    "spend": 156.09
+  },
+  {
+    "date": "2026-07-20",
+    "channel": "Referral",
+    "spend": 495.4
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Paid Search",
+    "spend": 1452.47
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Organic",
+    "spend": 162.72
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Referral",
+    "spend": 528.78
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Paid Search",
+    "spend": 1435.02
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Organic",
+    "spend": 154.84
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Referral",
+    "spend": 543.37
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Paid Search",
+    "spend": 1379.04
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Organic",
+    "spend": 151.34
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Referral",
+    "spend": 514.76
+  },
+  {
+    "date": "2026-07-24",
+    "channel": "Paid Search",
+    "spend": 1514.36
+  },
+  {
+    "date": "2026-07-24",
+    "channel": "Organic",
+    "spend": 159.8
+  },
+  {
+    "date": "2026-07-24",
+    "channel": "Referral",
+    "spend": 457.14
+  },
+  {
+    "date": "2026-07-25",
+    "channel": "Paid Search",
+    "spend": 1306.46
+  },
+  {
+    "date": "2026-07-25",
+    "channel": "Organic",
+    "spend": 144.23
+  },
+  {
+    "date": "2026-07-25",
+    "channel": "Referral",
+    "spend": 524.9
+  },
+  {
+    "date": "2026-07-26",
+    "channel": "Paid Search",
+    "spend": 1419.38
+  },
+  {
+    "date": "2026-07-26",
+    "channel": "Organic",
+    "spend": 143.66
+  },
+  {
+    "date": "2026-07-26",
+    "channel": "Referral",
+    "spend": 462.44
+  },
+  {
+    "date": "2026-07-27",
+    "channel": "Paid Search",
+    "spend": 1452.83
+  },
+  {
+    "date": "2026-07-27",
+    "channel": "Organic",
+    "spend": 155.99
+  },
+  {
+    "date": "2026-07-27",
+    "channel": "Referral",
+    "spend": 544.27
+  }
+]
